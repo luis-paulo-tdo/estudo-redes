@@ -33,3 +33,29 @@ Configuração de uma Rede Wi-Fi, tipos de autenticação e diferenças entre pr
 	- Viabilizam a comunicação entre pessoas via e-mail ou mensagens.
 	- É possível acessar recursos e informações de maneira remota.
 - Estas funções englobam a estrutura de compartilhamento de informações.
+
+## 2. Como funciona uma Rede de Computadores?
+- Os elementos básicos para o seu funcionamento são os nós e links.
+- Os nós são os dispositivos individuais que fazem parte de uma rede.
+	- São divididos em duas categorias: Comunicação e Terminal de Dados.
+	- Os Dispositivos de Comunicação são os modems, hubs e switches.
+	- Os Dispositivos Terminais são os computadores, impressoras, etc.
+	- Enquanto DCEs comunicam, DTEs originam, terminam e manipulam dados.
+- Os links são as conexões físicas ou lógicas que formam a infraestrutura.
+	- As conexões físicas são os cabos. Conexões também podem ser sem fio.
+- Outro elemento são os protocolos de rede, que contém regras de transmissão.
+- Há um modelo de camadas implementado para facilitar a compreensão das redes.
+- As camadas têm os seus papéis e atuam em conjuntos na transmissão de dados.
+- Os protocolos podem abranger uma ou mais camadas com suas próprias regras.
+	- TCP/IP: Transmission Control Protocol/Internet Protocol, muito usado.
+	- HTTP: HyperText Transfer Protocol, para aplicações World Wide Web.
+	- HTTPS: É uma versão do HTTP contendo regras mais restritas de segurança.
+	- FTP: File Transfer Protocol, utilizado para transferência de arquivos.
+	- SMTP: Simple Mail Transfer Protocol, padrão para envio de e-mails.
+	- DNS: Domain Name System, traduz nomes legíveis para Endereços IP.
+	- SSL/TLS: Protocolos de segurança usados para criptografar dados.
+	- UDP: User Datagram Protocol, mais leve que o TCP, usado em streamings.
+	- Os protocolos são especificados em documentos técnicos chamados RFC.
+	- A padronização e garantia de entrega é feita por instituições reguladoras.
+	- Eles são a base para comunicação eficiente e interoperabilidade das redes.
+	- Muitos protocolos seguem um modelo que padroniza as funções em sete camadas.
